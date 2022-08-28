@@ -3,8 +3,8 @@
 	"titley":-100,
 	"startx":100,
 	"starty":576,
-	"gfx":512,
+	"gfx":2002,
 	"gfy":40,
-	"backgroundSprite":"",
+	"backgroundSprite":"chara-menu",
 	"bpm":102
 }
